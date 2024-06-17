@@ -1,7 +1,7 @@
 {
-    "name": "PROFESSOR-MUSIC",
+    "name": "H A R I",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://telegra.ph/file/21c69049c4855ac0a035b.jpg",
+    "logo": "https://graph.org/file/54b5271f5e567a64e256a.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -14,12 +14,12 @@
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "27762028",
+        "value": "27013344",
         "required": true
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "6a94ce809af464548bfa5773b1c6b9c5",
+        "value": "be5f160b65f07128459b4289c6e286ad",
         "required": true
       },
       "BOT_TOKEN": {
@@ -29,12 +29,12 @@
       },
       "MONGO_DB_URI": {
         "description": "Get a mongodb url from https://cloud.mongodb.com.",
-        "value": "mongodb+srv://SourabhProfessor:SourabhProfessor@cluster0.a0bz4ht.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+        "value": "mongodb+srv://RiseHari:Alonelifehari@cluster0.1s3hiuy.mongodb.net/?retryWrites=true&w=majority&appName=Cluster",
         "required": true
       },
       "OWNER_ID": {
         "description": "The user id of user whom you would like to add as OWNER.",
-        "value": "7122997452",
+        "value": "6718764653",
         "required": true
       },
       "STRING_SESSION": {
