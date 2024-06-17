@@ -31,7 +31,7 @@ SONG_DOWNLOAD_DURATION = int(
 )  # Remember to give value in Minutes
 
 # Chat id of a group for logging bot's activities
-LOGGER_ID = int(getenv("LOGGER_ID", "-1002107213547"))
+LOGGER_ID = int(getenv("LOGGER_ID", "-1002086465850"))
 
 # Get this value from  on Telegram by /id
 OWNER_ID = int(getenv("OWNER_ID", "6718764653"))
